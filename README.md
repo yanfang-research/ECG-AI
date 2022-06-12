@@ -6,7 +6,7 @@
 
 📢 动态更新中...
 
-:tw-1f52e: 骨干网络：
+📘 骨干网络：
 
 - [x] [一维信号/时间序列数据上多个SOTA主干深度神经网络](https://github.com/hsd1503/resnet1d)
 - [x] [对MIT-BIH和PTBDB数据库ECG分类的七种模型](https://github.com/CarlosGomes98/ECG-Classification)
