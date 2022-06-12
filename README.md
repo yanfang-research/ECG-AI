@@ -8,12 +8,13 @@
 
 📘 骨干网络：
 
-- [x] [一维信号/时间序列数据上多个SOTA主干深度神经网络](https://github.com/hsd1503/resnet1d)
+- [x] [一维信号/时间序列数据上多个 SOTA 主干深度神经网络](https://github.com/hsd1503/resnet1d)
 - [x] [对MIT-BIH和PTBDB数据库ECG分类的七种模型](https://github.com/CarlosGomes98/ECG-Classification)
 - [x] [基于Fairseq的五种ECG-AI分析框架](https://github.com/Jwoo5/fairseq-signals)
 - [x] [用于心率失常检测的3种 backbones with attention nets](https://github.com/Ezekiel112/Cardiac_Arrythmia_detection-ECG-_from_DeepLearning)
 - [x] [7种CNN用于ECG心律失常分类框架](https://github.com/lxdv/ecg-classification)
 - [x] [PTB-XL benchmarks](https://github.com/hsd1503/ecg_ptbxl_benchmarking)
+- [x] [四种ECG分类模型](https://github.com/LuZhenHuan/ECG-Classification-Demo)
 
 💻 算法：
 - [x] [*心律失常检测(Nature Medicine 2019)](https://github.com/awni/ecg)
@@ -57,6 +58,8 @@
 - [x] [*ST压低检测(MATLAB)](https://github.com/EldarShayahmetov/Ischemic-changes-analysis)
 - [x] [*经典的QRS检测 Pan Tompkins法](https://github.com/adityatripathiiit/Pan_Tompkins_QRS_Detection)
 - [x] [常规信号处理](https://github.com/ngebodh/SignalProcessing)
+- [x] [中国心电智能大赛baseline](https://github.com/xiaosongshine/ECG_challenge_baseline_keras)
+
 
 📰 数据集：
 
@@ -117,10 +120,11 @@
 	 - [x] [胎儿模拟PCG数据集](https://www.physionet.org/content/simfpcgdb/1.0.0/)
 	 - [x] [多通道胎儿ECG数据集](https://www.physionet.org/content/adfecgdb/1.0.0/)
 
+
 ## 工具和软件
 
 🔥 标注工具：
-- [*SignalPlant 信号标注](https://www.medisig.com/signalplant/)
+-  [*SignalPlant 信号标注](https://www.medisig.com/signalplant/)
 - [ECG Annotation C++ Library](https://www.codeproject.com/Articles/20995/ECG-Annotation-C-Library)
 - [LSTM based ECG Annotator](https://github.com/ankur219/Deep-Learning-Based-ECG-Annotator)
 - [ECG-DL-Segmentation](https://github.com/jergusadamec/ecg-deep-segmentation)
@@ -149,6 +153,7 @@
 - [处理：EVAL_ST 评估和比较ST段检测算法的性能](https://www.physionet.org/content/eval-st/1.0.0/)
 - [匿名：edf-anonymize 匿名化EDF或EDF+文件](https://www.physionet.org/content/edf-anonymize/1.0.0/)
 - [匿名：匿名化工具包](https://www.physionet.org/content/deid/1.1/)
+
 
 ## 引用
 
