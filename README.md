@@ -56,7 +56,6 @@
 - [x] [*经典的QRS检测 Pan Tompkins法](https://github.com/adityatripathiiit/Pan_Tompkins_QRS_Detection)
 - [x] [常规信号处理](https://github.com/ngebodh/SignalProcessing)
 
-
 📰 数据集：
 
 - 心律失常
@@ -116,12 +115,10 @@
 	 - [x] [胎儿模拟PCG数据集](https://www.physionet.org/content/simfpcgdb/1.0.0/)
 	 - [x] [多通道胎儿ECG数据集](https://www.physionet.org/content/adfecgdb/1.0.0/)
 
-
-
 ## 工具和软件
 
 🔥 标注工具：
--  [*SignalPlant 信号标注](https://www.medisig.com/signalplant/)
+- [*SignalPlant 信号标注](https://www.medisig.com/signalplant/)
 - [ECG Annotation C++ Library](https://www.codeproject.com/Articles/20995/ECG-Annotation-C-Library)
 - [LSTM based ECG Annotator](https://github.com/ankur219/Deep-Learning-Based-ECG-Annotator)
 - [ECG-DL-Segmentation](https://github.com/jergusadamec/ecg-deep-segmentation)
@@ -150,7 +147,6 @@
 - [处理：EVAL_ST 评估和比较ST段检测算法的性能](https://www.physionet.org/content/eval-st/1.0.0/)
 - [匿名：edf-anonymize 匿名化EDF或EDF+文件](https://www.physionet.org/content/edf-anonymize/1.0.0/)
 - [匿名：匿名化工具包](https://www.physionet.org/content/deid/1.1/)
-
 
 ## 引用
 
