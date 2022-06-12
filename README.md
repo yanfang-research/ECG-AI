@@ -1,6 +1,6 @@
 ##  简介
 
- 🚀 记录用于ECG-AI的算法、数据集和工具等。
+ 🚀 记录用于ECG-AI的算法、数据集和工具等。*含义为重要。
 
 ## 基准测试和模型库
 
@@ -26,21 +26,26 @@
 - [x] [2D CNN用于心律失常分类(图像)](https://github.com/ankur219/ECG-Arrhythmia-classification)
 - [x] [MIT-BIH心律失常模型](https://github.com/hsd1503/PhysioNet)
 - [x] [MIT-BIH心律失常分类](https://github.com/physhik/ecg-mit-bih)
+- [x] [心律失常分类](https://github.com/Srinivas-Natarajan/Heart-Arrhythmia-Classification)
 - [x] [心律失常分类](https://github.com/ismorphism/DeepECG)
 - [x] [心律失常分类](https://github.com/manideep2510/ECG-acquisition-classification)
 - [x] [心律失常预测](https://github.com/starlordvk/Prediction-Of-Cardiac-Arrhythmia)
+- [x] [ICU中ECG预警下的心律失常二分类(PhysioNet 2015)](https://github.com/JackWBoynton/ECG_Alarm_Classification_ICU)
 - [x] [8导联多标签分类](https://github.com/quqixun/ECG-MLC)
 - [x] [定位室性心动过速起因(AAAI 2018 Workshop)](https://github.com/Prasanna1991/MMD_VAE)
 - [x] [PhysioNet 2017 1st 房颤分类模型](https://github.com/hsd1503/ENCASE)
 - [x] [*Triadic Motif Fields应用于房颤](https://github.com/ydup/Anomaly-Detection-in-Time-Series-with-Triadic-Motif-Fields)
 - [x] [房颤分类](https://github.com/animikhaich/ECG-Atrial-Fibrillation-Classification-Using-CNN)
+- [x] [房颤分类](https://github.com/simonsanvil/ECG-classification-MLH)
 - [x] [房颤检测和分类](https://github.com/gogowenzhang/ECG_Detector)
 - [x] [房颤检测 PhysioNet 2017](https://github.com/victorkifer/ecg-af-detection-physionet-2017)
 - [x] [*1D-CNN和biLSTM用于心肌梗死检测和定位](https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project)
+- [x] [*STEMI检测](https://github.com/YeongHyeon/Preprocessing-Method-for-STEMI-Detection)
+- [x] [18导联心梗检测](https://github.com/ragilhadi/myocardial-infraction-detection)
 - [x] [PhysioNet 2020 分类模型](https://github.com/hsd1503/python-classifier-2020)
 - [x] [ECG 心跳分类](https://github.com/MousaviSajad/ECG-Heartbeat-Classification-seq2seq-model)
 - [x] [ECG 心跳分类](https://github.com/MousaviSajad/ECG-Heartbeat-Classification-seq2seq-model)
-- [x] [*STEMI检测](https://github.com/YeongHyeon/Preprocessing-Method-for-STEMI-Detection)
+- [x] [Resnet用于ECG分类](https://github.com/JackWBoynton/ECG_classification_ResNet)
 - [x] [Transformer 1d用于分类](https://github.com/hsd1503/transformer1d)
 - [x] [合肥ECG比赛 2019 1st](https://github.com/zhengqi98/Hefei_ECG_TOP1)
 - [x] [心电Panoram合成(IJCAI 2021)](https://github.com/WhatAShot/Electrocardio-Panorama)
@@ -59,6 +64,7 @@
 - [x] [*ST压低检测(MATLAB)](https://github.com/EldarShayahmetov/Ischemic-changes-analysis)
 - [x] [*经典的QRS检测 Pan Tompkins法](https://github.com/adityatripathiiit/Pan_Tompkins_QRS_Detection)
 - [x] [常规信号处理](https://github.com/ngebodh/SignalProcessing)
+- [x] [*ECG数据扩增](https://github.com/JackWBoynton/ecg-augmentation)
 - [x] [中国心电智能大赛baseline](https://github.com/xiaosongshine/ECG_challenge_baseline_keras)
 
 
