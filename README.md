@@ -36,7 +36,7 @@
 - [x] [房颤分类](https://github.com/animikhaich/ECG-Atrial-Fibrillation-Classification-Using-CNN)
 - [x] [房颤检测和分类](https://github.com/gogowenzhang/ECG_Detector)
 - [x] [房颤检测 PhysioNet 2017](https://github.com/victorkifer/ecg-af-detection-physionet-2017)
-- [x] [1D-CNN和biLSTM用于心肌梗死检测和定位](https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project)
+- [x] [*1D-CNN和biLSTM用于心肌梗死检测和定位](https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project)
 - [x] [PhysioNet 2020 分类模型](https://github.com/hsd1503/python-classifier-2020)
 - [x] [ECG 心跳分类](https://github.com/MousaviSajad/ECG-Heartbeat-Classification-seq2seq-model)
 - [x] [ECG 心跳分类](https://github.com/MousaviSajad/ECG-Heartbeat-Classification-seq2seq-model)
