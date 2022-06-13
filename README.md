@@ -115,14 +115,14 @@
 	- [x] [挪威耐力运动员12导联10s ECG信号数据集](https://www.physionet.org/content/norwegian-athlete-ecg/1.0.0/)
 
 - 挑战赛
-	- [x] [Cinc2019](https://moody-challenge.physionet.org/2019/)
-	- [x] [Cinc2020](https://moody-challenge.physionet.org/2020/)
-	- [x] [Cinc2021](https://moody-challenge.physionet.org/2021/)
-	- [x] [Cinc2022](https://moody-challenge.physionet.org/2022/)
-	- [x] [CPSC2018](http://2018.icbeb.org/Challenge.html)
-	- [x] [CPSC2019](http://2019.cpscsub.com/)
-	- [x] [CPSC2020](http://2020.icbeb.org/CSPC2020)
-	- [x] [CPSC2021](http://2021.icbeb.org/CPSC2021)
+	- [x] [Cinc'2019](https://moody-challenge.physionet.org/2019/)
+	- [x] [Cinc'2020](https://moody-challenge.physionet.org/2020/)
+	- [x] [Cinc'2021](https://moody-challenge.physionet.org/2021/)
+	- [x] [Cinc'2022](https://moody-challenge.physionet.org/2022/)
+	- [x] [CPSC'2018](http://2018.icbeb.org/Challenge.html)
+	- [x] [CPSC'2019](http://2019.cpscsub.com/)
+	- [x] [CPSC'2020](http://2020.icbeb.org/CSPC2020)
+	- [x] [CPSC'2021](http://2021.icbeb.org/CPSC2021)
 
 
 - 其它数据
