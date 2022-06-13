@@ -128,9 +128,9 @@
 
 
 - 其它数据
-	 - [x] [*欧盟ST-T数据集](https://www.physionet.org/content/edb/1.0.0/)
-	 - [x] [*MIT-BIH ST数据集](https://physionet.org/content/stdb/1.0.0/)
-	 - [x] [*长时ST数据集](https://www.physionet.org/content/ltstdb/1.0.0/)
+	 - [x] [*欧盟ST-T数据集 (心肌梗死相关)](https://www.physionet.org/content/edb/1.0.0/)
+	 - [x] [*MIT-BIH ST数据集 (心肌梗死相关)](https://physionet.org/content/stdb/1.0.0/)
+	 - [x] [*长时ST数据集 (心肌梗死相关)](https://www.physionet.org/content/ltstdb/1.0.0/)
 	 - [x] [CirCor DigiScope 心音数据集](https://www.physionet.org/content/circor-heart-sound/1.0.3/)
 	 - [x] [长时3导联ECG/单导联PCG和心音数据集](https://www.physionet.org/content/ephnogram/1.0.0/)
 	 - [x] [解读ECG：12导联ECG+眼动数据](https://www.physionet.org/content/eye-tracking-ecg/1.0.0/)
