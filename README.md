@@ -186,7 +186,7 @@
 - [处理：基线漂移处理](https://github.com/fperdigon/ECG-BaseLineWander-Removal-Methods)
 - [处理：ECG去噪](https://github.com/fperdigon/DeepFilter)
 - [处理：ECG分段](https://github.com/Namenaro/ecg_segmentation)
-- [处理：ECG去噪+RPeak检测(EMBC2020）](https://github.com/acrarshin/RPNet)
+- [处理：ECG去噪+RPeak检测 (EMBC'2020）](https://github.com/acrarshin/RPNet)
 - [处理：PhysioNet实用工具箱](https://www.physionet.org/content/pcst/1.0.0/)
 - [处理：EVAL_ST 评估和比较ST段检测算法的性能](https://www.physionet.org/content/eval-st/1.0.0/)
 - [匿名：edf-anonymize 匿名化EDF或EDF+文件](https://www.physionet.org/content/edf-anonymize/1.0.0/)
