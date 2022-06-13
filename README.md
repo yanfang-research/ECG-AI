@@ -8,11 +8,11 @@
 
 📘 骨干网络：
 
-- [x] [一维信号/时间序列数据上多个 SOTA 主干深度神经网络](https://github.com/hsd1503/resnet1d)
+- [x] [一维信号/时间序列数据上多个SOTA主干深度神经网络](https://github.com/hsd1503/resnet1d)
 - [x] [对MIT-BIH和PTBDB数据库ECG分类的七种模型](https://github.com/CarlosGomes98/ECG-Classification)
 - [x] [基于Fairseq的五种ECG-AI分析框架](https://github.com/Jwoo5/fairseq-signals)
 - [x] [用于心率失常检测的3种 backbones with attention nets](https://github.com/Ezekiel112/Cardiac_Arrythmia_detection-ECG-_from_DeepLearning)
-- [x] [7种CNN用于ECG心律失常分类框架](https://github.com/lxdv/ecg-classification)
+- [x] [七种CNN用于ECG心律失常分类框架](https://github.com/lxdv/ecg-classification)
 - [x] [PTB-XL benchmarks](https://github.com/hsd1503/ecg_ptbxl_benchmarking)
 - [x] [四种ECG分类模型](https://github.com/LuZhenHuan/ECG-Classification-Demo)
 
