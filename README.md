@@ -66,6 +66,27 @@
 - [x] [常规信号处理](https://github.com/ngebodh/SignalProcessing)
 - [x] [*ECG数据扩增](https://github.com/JackWBoynton/ecg-augmentation)
 - [x] [中国心电智能大赛baseline](https://github.com/xiaosongshine/ECG_challenge_baseline_keras)
+- [x] [基于SE-attention的ECG分类网络(ICASSP2019）](https://github.com/Amadeuszhao/SE-ECGNet)
+- [x] [有权重的ResNet 12lead分类(2020 Computing in Cardiology)](https://github.com/ZhaoZhibin/Physionet2020model)
+- [x] [Deep ECG心脏节律分类（PMLR 2018)](https://github.com/Seb-Good/deepecg)
+- [x] [GAN生成ECG（EUSIPCO2021）](https://github.com/Brophy-E/ECG_GAN_MBD)
+- [x] [GAN生成ECG（EUSIPCO2021）](https://github.com/Brophy-E/ECG_GAN_MBD)
+- [x] [自监督表征学习（CinC2020）](https://github.com/hhi-aml/ecg-selfsupervised)
+- [x] [多分类器学习（CinC2017）](https://github.com/hsd1503/ENCASE)
+- [x] [表征学习ECG分类（PLOS2022）](https://github.com/broadinstitute/ml4h)
+- [x] [基于条件约束的ECG分类（CinC2020）](https://github.com/Bsingstad/PhysioNet-CinC-Challenge2020-TeamUIO)
+- [x] [房颤检测（Biomedical Signal Processing and Control 2019）](https://github.com/nibtehaz/VFPred)
+- [x] [表征学习ECG分类（PLOS2022）](https://github.com/broadinstitute/ml4h)
+- [x] [长信号节律检测（Computers in Biology and Medicine 2018）](https://github.com/tom-beer/Arrhythmia-CNN)
+- [x] [基于GAN的生成增广分类模型](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)
+- [x] [呼吸暂停检测（IEEE Transactions on Instrumentation and Measurement 2022)](https://github.com/mahsaabahrami/Sleep-Apnea)
+- [x] [生成网络增加模型鲁棒性（AAAI 2020)](https://github.com/codespace123/ECGadv)
+
+
+
+
+
+
 
 
 📰 数据集：
@@ -100,6 +121,17 @@
 	- [x] [小型猝死动态心电图](https://physionet.org/content/sddb/1.0.0/)
 	- [x] [挪威耐力运动员12导联10s ECG信号数据集](https://www.physionet.org/content/norwegian-athlete-ecg/1.0.0/)
 
+- 挑战赛
+	- [x] [Cinc2019](https://moody-challenge.physionet.org/2019/)
+	- [x] [Cinc2020](https://moody-challenge.physionet.org/2020/)
+	- [x] [Cinc2021](https://moody-challenge.physionet.org/2021/)
+	- [x] [Cinc2022](https://moody-challenge.physionet.org/2022/)
+	- [x] [CPSC2018](http://2018.icbeb.org/Challenge.html)
+	- [x] [CPSC2019](http://2019.cpscsub.com/)
+	- [x] [CPSC2020](http://2020.icbeb.org/CSPC2020)
+	- [x] [CPSC2021](http://2021.icbeb.org/CPSC2021)
+
+
 - 其它数据
 	 - [x] [*欧盟ST-T数据集](https://www.physionet.org/content/edb/1.0.0/)
 	 - [x] [*MIT-BIH ST数据集](https://physionet.org/content/stdb/1.0.0/)
@@ -126,6 +158,8 @@
 	 - [x] [胎儿PCG数据集](https://www.physionet.org/content/fpcgdb/1.0.0/)
 	 - [x] [胎儿模拟PCG数据集](https://www.physionet.org/content/simfpcgdb/1.0.0/)
 	 - [x] [多通道胎儿ECG数据集](https://www.physionet.org/content/adfecgdb/1.0.0/)
+	 - [x] [VIEW II](http://ecgview.org/ECG_ViEW.asp)
+	 - [x] [STAFFIII](https://www.physionet.org/ content/staffiii/1.0.0/)
 
 
 
@@ -157,6 +191,10 @@
 - [处理：OSET 生成、建模、处理和滤波工具](https://sameni.org/OSET/)
 - [处理：WFDB 波形处理](https://www.physionet.org/content/wfdb-python/3.4.1/)
 - [处理：ECGPUWAVE 分析ECG信号并检测QRS复合波、定位P/QRS/ST-T起点/峰值/终点](https://www.physionet.org/content/ecgpuwave/1.3.4/)
+- [处理：基线漂移处理](https://github.com/fperdigon/ECG-BaseLineWander-Removal-Methods)
+- [处理：ECG去噪](https://github.com/fperdigon/DeepFilter)
+- [处理：ECG分段](https://github.com/Namenaro/ecg_segmentation)
+- [处理：ECG去噪+RPeak检测(EMBC2020）](https://github.com/acrarshin/RPNet)
 - [处理：PhysioNet实用工具箱](https://www.physionet.org/content/pcst/1.0.0/)
 - [处理：EVAL_ST 评估和比较ST段检测算法的性能](https://www.physionet.org/content/eval-st/1.0.0/)
 - [匿名：edf-anonymize 匿名化EDF或EDF+文件](https://www.physionet.org/content/edf-anonymize/1.0.0/)
