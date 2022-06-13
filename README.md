@@ -69,7 +69,6 @@
 - [x] [有权重的ResNet 12lead分类 (Computing in Cardiology'2020)](https://github.com/ZhaoZhibin/Physionet2020model)
 - [x] [Deep ECG心脏节律分类（PMLR'2018)](https://github.com/Seb-Good/deepecg)
 - [x] [GAN生成ECG（EUSIPCO'2021）](https://github.com/Brophy-E/ECG_GAN_MBD)
-- [x] [GAN生成ECG（EUSIPCO'2021）](https://github.com/Brophy-E/ECG_GAN_MBD)
 - [x] [自监督表征学习（CinC'2020）](https://github.com/hhi-aml/ecg-selfsupervised)
 - [x] [多分类器学习（CinC'2017）](https://github.com/hsd1503/ENCASE)
 - [x] [表征学习ECG分类（PLOS'2022）](https://github.com/broadinstitute/ml4h)
