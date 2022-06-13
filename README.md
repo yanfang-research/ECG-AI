@@ -103,7 +103,7 @@
 	- [x] [*12导联10s 心拍注释ECG信号数据集](https://www.physionet.org/content/ludb/1.0.1/)
 	- [x] [PhysioNet/Computers'2008挑战赛数据集](https://www.physionet.org/content/twadb/1.0.0/)
 	- [x] [*STAFF III心肌梗死](https://www.physionet.org/content/staffiii/1.0.0/)
-	- [x] [(受限) VIEW II含各类ECG参数用于检测药物对心律失常影响](http://ecgview.org/ECG_ViEW.asp)
+	- [x] [(受限) ECG-ViEW II 含各类ECG参数用于检测药物对心律失常影响](http://ecgview.org/ECG_ViEW.asp)
 
 - 高血压
 	- [x] [高血压患者的24h动态心电图](https://www.physionet.org/content/shareedb/1.0.0/)
