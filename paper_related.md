@@ -25,7 +25,7 @@
 	- [x] [Predicting cardiac arrest and respiratory failure using feasible artificial intelligence with simple trajectories of patient data据](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780058/)
 	- [x] [Prediction of cardiac arrest in intensive care patients through machine learning](https://pubmed.ncbi.nlm.nih.gov/22715923/)
 	- [x] [An algorithm based on deep learning for predicting in‐hospital cardiac arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/)
-	- [x] [*Arrhythmic sudden death survival prediction using deep learning analysis of scarring in the heart（Nature'2022)](https://www.nature.com/articles/s44161-022-00041-9)
+	- [x] [Arrhythmic sudden death survival prediction using deep learning analysis of scarring in the heart（Nature'2022)](https://www.nature.com/articles/s44161-022-00041-9)
 
 - AF误诊
 	- [x] [An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm: a retrospective analysis of outcome prediction](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)31721-0/fulltext)
