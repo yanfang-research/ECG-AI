@@ -58,3 +58,23 @@
 - [x] [Computer-Aided Decision Support System for Diagnosis of Heart Diseases](https://www.dovepress.com/computer-aided-decision-support-system-for-diagnosis-of-heart-diseases-peer-reviewed-fulltext-article-RRCC)
 - [x] [Short Single-Lead ECG Signal Delineation-Based Deep Learning: Implementation in Automatic Atrial Fibrillation Identification](https://www.mdpi.com/1424-8220/22/6/2329)
 - [x] [Explainable AI decision model for ECG data of cardiac disorders](https://www.sciencedirect.com/science/article/abs/pii/S1746809422001069)
+- [x] [Explainable artificial intelligence to detect atrial fibrillation using electrocardiogram](https://www.sciencedirect.com/science/article/abs/pii/S0167527320342224)
+- [x] [Explainable Artificial Intelligence Model for Diagnosis of Atrial Fibrillation Using Holter Electrocardiogram Waveforms](https://www.jstage.jst.go.jp/article/ihj/62/3/62_21-094/_pdf)
+- [x] [Designing ECG Monitoring Healthcare System with Federated Transfer Learning and Explainable AI](https://arxiv.org/pdf/2105.12497.pdf)
+- [x] [Explainable Deep learning based Approach for Multi-label Classification of Electrocardiogram](https://www.researchgate.net/profile/Vinayakumar-Ravi/publication/354590866_Explainable_Deep_Learning-Based_Approach_for_Multilabel_Classification_of_Electrocardiogram/links/61440d06a609b152aa157b16/Explainable-Deep-Learning-Based-Approach-for-Multilabel-Classification-of-Electrocardiogram.pdf)
+- [x] [Towards explainable artificial intelligence and explanation user interfaces to open the ‘black box’ of automated ECG interpretation](https://pure.ulster.ac.uk/en/publications/towards-explainable-artificial-intelligence-and-explanation-user-)
+- [x] [Classification of organised atrial arrythmias using explainable artificial intelligence](https://academic.oup.com/europace/article/24/Supplement_1/euac053.557/6588857?login=true)
+- [x] [Explainable detection of myocardial infarction using deep learning models with Grad-CAM technique on ECG signals](https://www.sciencedirect.com/science/article/abs/pii/S0010482522003420)
+- [x] [Arithmetic Optimization Algorithm with Explainable Artificial Intelligence Technique for Biomedical Signal Analysis](https://link.springer.com/chapter/10.1007/978-981-19-1476-8_9)
+- [x] [Interpretable heartbeat classification using local model-agnostic explanations on ECGs](https://www.sciencedirect.com/science/article/abs/pii/S0010482521001876)
+- [x] [Detection and classification of arrhythmia using an explainable deep learning model](https://www.sciencedirect.com/science/article/abs/pii/S0022073621001242)
+- [x] [Deep neural networks learn by using human-selected electrocardiogram features and novel features ](https://academic.oup.com/ehjdh/article/2/3/446/6323226?login=true)
+- [x] [Explainable AI meets Healthcare: A Study on Heart Disease Dataset](https://arxiv.org/pdf/2011.03195.pdf)
+- [x] [Designing Theory-Driven User-Centric Explainable AI](https://dl.acm.org/doi/abs/10.1145/3290605.3300831?casa_token=7u-x6LWY3tIAAAAA%3AEDDvDzT-lQJKCy-9wFTGg3f4Fmf5CYh-j62zaQv02leO1ga0NjxXHFQsXZjqREwFOlSpSzSV57NLSw)
+- [x] [Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG (Nature'2020)](https://www.nature.com/articles/s41598-019-56927-5)
+
+
+
+
+
+
