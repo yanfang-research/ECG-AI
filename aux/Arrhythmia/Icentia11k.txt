@@ -1,0 +1,9 @@
+sig_len:1048577
+frequncy:250hz
+label:{'N':'Normal',
+       'S':'ESSV (PAC): Premature or ectopic supraventricular beat, premature atrial contraction',
+       'V':'ESV (PVC): Premature ventricular contraction, premature ventricular contraction',
+       'Q':'Undefined: Unclassifiable beat',
+       'total':4 arrhythmia classes}
+11000 patients/541794 records
+1 lead

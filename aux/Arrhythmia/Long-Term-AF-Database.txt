@@ -1,0 +1,12 @@
+sig_len: 24~25 hours
+frequncy:128hz
+
+label:{
+'N':	'Normal',
+'|':'artifacts',
+'T':	'AF terminations',
+'total':3 arrhythmia classes
+}
+
+84 patients/84 records
+2 lead

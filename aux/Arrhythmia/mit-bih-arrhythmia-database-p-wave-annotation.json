@@ -1,0 +1,45 @@
+{
+                              "sexs": {
+                                                            "M": 6,
+                                                            "F": 6
+                              },
+                              "ages": {
+                                                            "69": 2,
+                                                            "75": 1,
+                                                            "-1": 1,
+                                                            "24": 1,
+                                                            "51": 2,
+                                                            "89": 1,
+                                                            "53": 1,
+                                                            "84": 1,
+                                                            "73": 1,
+                                                            "72": 1
+                              },
+                              "medications": {
+                                                            "Aldomet,": 1,
+                                                            "Inderal": 2,
+                                                            "Diapres": 1,
+                                                            "Diapres,": 1,
+                                                            "Xyloprim": 1,
+                                                            "None": 3,
+                                                            "Pronestyl": 2,
+                                                            "Digoxin,": 4,
+                                                            "Lasix,": 1,
+                                                            "Quinaglute": 1,
+                                                            "Dilantin": 1,
+                                                            "Quinidine": 1
+                              },
+                              "signal_length": {
+                                                            "650000": 12
+                              },
+                              "label": {
+                                                            "p wave": " "
+                              },
+                              "info": [
+                                                            "12 patients/12 records"
+                              ],
+                              "leads": [
+                                                            "MLII",
+                                                            "V5"
+                              ]
+}

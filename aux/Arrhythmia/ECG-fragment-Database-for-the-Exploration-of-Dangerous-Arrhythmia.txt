@@ -1,0 +1,31 @@
+sig_len:721
+frequncy:250hz
+
+
+label:
+按危险程度分成六个层次
+1.Life-threatening arrhythmias requiring urgent resuscitation（2 类）:
+    VFL: ventricular flutter;
+    VF: ventricular fibrillation.
+2.A special form of life-threatening arrhythmias（1 类）:
+    VTTdP: ventricular tachycardia torsade de pointes.
+3.Life-threatening ventricular arrhythmias（1 类）:
+    VTHR: high rate ventricular tachycardia (monomorphic and polymorphic).
+4.Potentially dangerous ventricular arrhythmias（4 类）:
+    VTLR: low rate ventricular tachycardia (monomorphic and polymorphic);
+    B: ventricular bigeminy;
+    HGEA: high degree of ventricular ectopic activity;
+    VER: ventricular escape rhythm.
+5.Supraventricular arrhythmias（5 类）:
+    AFIB: atrial fibrillation;
+    SVTA: supraventricular tachycardia;
+    SBR: sinus bradycardia;
+    BI: first-degree heart block;
+    NOD: nodal (a-v) rhythm.
+6.Sinus rhythm（2 类）:
+    BBB: sinus rhythm with bundle branch block;
+    N: normal sinus rhythm;
+    Ne: normal rhythm with single extrasystole.
+
+22 patients/22 records
+1 lead
