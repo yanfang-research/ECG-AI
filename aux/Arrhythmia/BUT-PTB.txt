@@ -1,0 +1,32 @@
+sig_len:43201
+frequncy:360hz
+
+label:{
+'A':	'Atrial premature beat',
+'AFIB':'Atrial fibrillation	',
+'AFL':	'Atrial flutter',
+'B':	'Ventricular bigeminy',
+'BI':	'Atrioventricular block 1st degree',
+'BII':	'Atrioventricular block 2nd degree',
+'BIII':'Atrioventricular block 3rd degree',
+'E':	'Ventricular escape beat',
+'F':	'Fusion of ventricular and normal beat',
+'IVR':	'Idioventricular rhythm',
+'J':	'Nodal beat',
+'L':	'Left bundle branch block beat',
+'NA':	'Sinus arrhythmia',
+'NOD':	'Nodal rhythm',
+'P':	'Paced rhythm	',
+'PREX':	'Pre-excitation',
+'R':	'Right bundle branch block beat',
+'SVTA':'Supraventricular tachyarrhythmia',
+'T':	'Ventricular trigeminy',
+'V':	'Ventricular premature beat',
+'VFL':	'Ventricular flutter	',
+'VP':	'Ventricular pair',
+'a':	'Aberrated atrial premature beat',
+'total':22 arrhythmia classes
+}
+
+50 patients/50 records
+2 lead

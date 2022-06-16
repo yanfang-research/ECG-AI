@@ -1,0 +1,23 @@
+{
+                              "signal_length": {
+                                                            "230400": 78
+                              },
+                              "label": {
+                                                            "a": "Aberrated atrial premature beat",
+                                                            "Q": "Paced beat",
+                                                            "N": "Normal",
+                                                            "V": "Premature ventricular contraction",
+                                                            "J": "Nodal (junctional) premature beat",
+                                                            "B": "Bundle branch block beat (unspecified)",
+                                                            "S": "Atrial premature beat",
+                                                            "F": "Fusion of ventricular and normal beat",
+                                                            "total": "8"
+                              },
+                              "info": [
+                                                            "78 records"
+                              ],
+                              "leads": [
+                                                            "ECG1",
+                                                            "ECG2"
+                              ]
+}

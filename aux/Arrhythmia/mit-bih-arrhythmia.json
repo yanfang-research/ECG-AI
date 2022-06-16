@@ -1,0 +1,84 @@
+{
+                              "sexs": {
+                                                            "M": 26,
+                                                            "F": 22
+                              },
+                              "ages": {
+                                                            "69": 3,
+                                                            "75": 1,
+                                                            "84": 2,
+                                                            "-1": 2,
+                                                            "66": 1,
+                                                            "73": 2,
+                                                            "24": 2,
+                                                            "63": 2,
+                                                            "87": 2,
+                                                            "64": 2,
+                                                            "47": 1,
+                                                            "54": 1,
+                                                            "72": 2,
+                                                            "39": 1,
+                                                            "68": 3,
+                                                            "51": 2,
+                                                            "83": 2,
+                                                            "77": 1,
+                                                            "43": 1,
+                                                            "59": 1,
+                                                            "89": 2,
+                                                            "23": 1,
+                                                            "62": 1,
+                                                            "32": 2,
+                                                            "61": 1,
+                                                            "53": 1,
+                                                            "81": 1,
+                                                            "65": 1,
+                                                            "80": 1,
+                                                            "76": 1,
+                                                            "57": 1,
+                                                            "56": 1
+                              },
+                              "medications": {
+                                                            "Aldomet,": 3,
+                                                            "Inderal": 5,
+                                                            "Diapres": 1,
+                                                            "Digoxin": 6,
+                                                            "Diapres,": 1,
+                                                            "Xyloprim": 1,
+                                                            "Digoxin,": 20,
+                                                            "Pronestyl": 5,
+                                                            "Nitropaste,": 1,
+                                                            "Quinaglute": 3,
+                                                            "Quinidine": 5,
+                                                            "Lasix": 3,
+                                                            "None": 11,
+                                                            "Norpace": 2,
+                                                            "Isordil,": 2,
+                                                            "Nitropaste": 1,
+                                                            "Lasix,": 2,
+                                                            "Hydrochlorthiazide,": 3,
+                                                            "Inderal,": 2,
+                                                            "KCl": 2,
+                                                            "Coumadin,": 1,
+                                                            "Heparin,": 1,
+                                                            "Hygroton,": 1,
+                                                            "Hydrodiuril,": 1,
+                                                            "Dilantin": 3
+                              },
+                              "signal_length": {
+                                                            "650000": 48
+                              },
+                              "label": {
+                                                            "N": "Normal",
+                                                            "S": "Atrial premature beat",
+                                                            "V": "Premature ventricular contraction",
+                                                            "F": "Fusion of ventricular and normal beat",
+                                                            "Q": "Paced beat"
+                              },
+                              "info": [
+                                                            "47 patients/48 records"
+                              ],
+                              "leads": [
+                                                            "MLII",
+                                                            "V5"
+                              ]
+}

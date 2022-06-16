@@ -1,0 +1,9 @@
+sig_len: "38400": 100,
+         "230400": 200
+frequncy:128hz
+label:{'N':'do not have documented atrial fibrillation',
+       'P':'paroxysmal atrial fibrillation (PAF)',
+       'total':4 arrhythmia classes}
+testing set:48 patients/50 records
+training set: 50 patients/50 records
+"lead": ["ECG0","ECG1"]

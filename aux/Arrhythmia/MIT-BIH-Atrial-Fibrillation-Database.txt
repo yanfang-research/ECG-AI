@@ -1,0 +1,13 @@
+sig_len: 10 hours
+frequncy:250hz
+
+label:{
+'N':	'used to indicate all other rhythms',
+'AFIB':'atrial fibrillation',
+'AFL:	'atrial flutter',
+'J:	'AV junctional rhythm',
+'total':4 arrhythmia classes
+}
+
+25 patients/25 records
+2 lead

@@ -1,0 +1,12 @@
+sig_len: 10 min
+frequncy:500 Hz/1 kHz 
+
+label:{
+'NR':	'normal rhythm fetus',
+'ARR':'arrhythmia fetus',
+'total':2 arrhythmia classes
+}
+
+
+26 patients/26 records
+6 lead [ECG,Abdomen_1,Abdomen_2,Abdomen_3,Abdomen_4,Abdomen_5]

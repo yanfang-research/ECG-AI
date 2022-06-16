@@ -1,0 +1,20 @@
+sig_len: 30 minutes
+frequncy:257hz
+sex: 17man/15 women
+label:{
+'Acute MI',
+'Transient ischemic attack (angina pectoris)',
+'Prior MI',
+'Coronary artery disease with hypertension',
+'Sinus node dysfunction',
+'Supraventricular ectopy',
+'Atrial fibrillation or SVTA',
+'WPW',
+'AV block',
+'Bundle branch block',
+'total':10 coronary artery disease classes
+}
+
+
+32 patients/75 records
+12 lead
