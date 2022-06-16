@@ -89,7 +89,7 @@
 	- [x] [Icentia11k 单导联长时ECG信号数据集](https://www.physionet.org/content/icentia11k-continuous-ecg/1.0/)
 	- [x] [高危心律失常数据集](https://www.physionet.org/content/ecg-fragment-high-risk-label/1.0.0/)
 	- [x] [带P波注释的MIT-BIH心律失常ECG数据集](https://www.physionet.org/content/pwave/1.0.0/)
-	- [x] [BUT PDB 2分钟2导联 ECG数据集](https://www.physionet.org/content/but-pdb/1.0.0/)
+	- [x] [*BUT PDB 2分钟2导联 ECG数据集](https://www.physionet.org/content/but-pdb/1.0.0/)
 	- [x] [长时房颤ECG数据集](https://www.physionet.org/content/ltafdb/1.0.0/)
 	- [x] [MIT-BIH 房颤长时双导联ECG数据集](https://physionet.org/content/afdb/1.0.0/)
 	- [x] [PAF 房颤长时双导联ECG数据集](https://physionet.org/content/afpdb/1.0.0/)
