@@ -33,9 +33,7 @@
 	- [Paper'2021: Deep learning and the electrocardiogram: review ofthe current state-of-the-art](https://academic.oup.com/europace/article/23/8/1179/6132071)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_paper_2.jpg)
 
-	- [Paper'2021: Artificial intelligence-enhanced
-electrocardiography in cardiovascular
-disease management](https://www.nature.com/articles/s41569-020-00503-2.pdf)
+	- [Paper'2021: Artificial intelligence-enhanced electrocardiography in cardiovascular disease management](https://www.nature.com/articles/s41569-020-00503-2.pdf)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_paper_3.jpg)
 
 - 心肌梗死+心律失常+其它
