@@ -1,0 +1,45 @@
+数据集来自一下几个数据集的集合
+1.CPSC Database and CPSC-Extra Database
+  500hz
+  6-60s
+  6,877 (male: 3,699; female: 3,178) +3,453 (male: 1,843; female: 1,610) 
+2.INCART Database
+  257hz
+  30min
+  74 records
+3.PTB and PTB-XL Database
+  3.1 
+    1000 Hz
+    516 records (male: 377, female: 139). 
+  3.2 
+    500 Hz
+    10s
+    21,837 (male: 11,379 and female: 10,458)
+4.The Georgia 12-lead ECG Challenge (G12EC) Database
+  500 Hz
+  10s
+  10,344 (male: 5,551, female: 4,793) 
+5.Undisclosed Database
+  10,000 ECGs
+6.(Chapman-Shaoxing) and Ningbo First Hospital (Ningbo)
+  500 Hz
+  10 s
+  45,152 ECGS
+7.UMich Database
+  250 Hz or 500 Hz
+  10s
+  19,642 ECGs
+
+label.
+不同疾病诊断（9类）：
+  1st degree av block
+  atrial fibrillation
+  left bundle branch block
+  premature atrial contraction
+  right bundle branch block
+  sinus rhythm
+  st depression
+  st elevation
+  ventricular ectopics
+
+导联：12 lead

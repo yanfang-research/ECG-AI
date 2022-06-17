@@ -1,0 +1,16 @@
+sig_len:1 hour
+frequncy:50hz
+
+label:
+1.diagnose（5类）
+  SAH:subarachnoïdal hemorrhage
+  SDH:subdural hematoma
+  TBI:Traumatic brain injury
+  ICH:Intracerebral hemorrhage
+  CVA:Cerebrovascular accident
+
+  
+
+
+29 patients/29 records
+3 lead(ABP,ECG,ICP)

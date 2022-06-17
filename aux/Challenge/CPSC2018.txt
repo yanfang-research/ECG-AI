@@ -1,0 +1,16 @@
+sig_len:6-60s
+frequncy:500hz
+
+label:
+1.是否患有败血症（8类）：
+  (1) Atrial fibrillation (AF)
+  (2) First-degree atrioventricular block (I-AVB)
+  (3) Left bundle brunch block (LBBB)
+  (4) Right bundle brunch block (RBBB)
+  (5) Premature atrial contraction (PAC)
+  (6) Premature ventricular contraction (PVC)
+  (7) ST-segment depression (STD)
+  (8) ST-segment elevated (STE)
+
+6,877 (female: 3178; male: 3699) training/2,954  testing
+导联：12 lead

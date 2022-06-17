@@ -1,0 +1,14 @@
+sig_len:0~90s
+frequncy:500hz
+sexes:1 men
+age 25
+
+label:
+1.diagnose（34类）
+  s :standing
+  w : walking
+  j :single jump
+
+
+1 patients/1 records
+4 lead(ECG1~4)

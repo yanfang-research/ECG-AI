@@ -1,0 +1,24 @@
+sig_len:10s
+frequncy:800hz
+sexes:27 women/65 men
+
+label:
+1.diagnose（12类）
+  Non ST segment elevation myocardial infarction (NSTEMI)
+  Coronary artery disease
+  Atypical chest pain
+  Atrial fibrillation
+  Stable angina underwent PCI (Percutaneous Coronary Intervention )
+  ST segment elevation myocardial infarction (STEMI)
+  not reported
+  sinus bradycardia
+  Gastritis (non cardiac chest pain)
+  Stable angina
+  Angina
+  Ventricular tachycardia (VT)
+
+
+
+
+92 patients/92 records
+18 lead(I, II, III) (V1: V6) (LA, RA, LL) (UV1: UV6)    

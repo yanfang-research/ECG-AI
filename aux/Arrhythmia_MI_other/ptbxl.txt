@@ -1,0 +1,85 @@
+sig_len:10s
+frequncy:500hz/1000hz
+
+label:
+1.diagnoise superclass(5 类):['STTC', 'NORM', 'MI', 'HYP', 'CD']
+2.diagnoise subclass(24 类):['STTC', 'NST_', 'NORM', 'IMI', 'AMI', 'LVH', 'LAFB/LPFB', 'ISC_',
+       'IRBBB', '_AVB', 'IVCD', 'ISCA', 'CRBBB', 'CLBBB', 'LAO/LAE',
+       'ISCI', 'LMI', 'RVH', 'RAO/RAE', 'WPW', 'ILBBB', 'SEHYP', 'PMI',]
+3.all class:
+{NDT:	non-diagnostic T abnormalities(STTC),	
+NST_:	non-specific ST changes	(STTC)	,
+DIG	:digitalis-effect(STTC)	,		
+LNGQT:	long QT-interval(STTC),			
+NORM:	normal ECG	(NORM),
+IMI	:inferior myocardial infarction	(MI	IMI),	
+ASMI:	anteroseptal myocardial infarction	(MI	AMI),
+LVH	:left ventricular hypertrophy	(HYP)	,
+LAFB:	left anterior fascicular block	(CD),
+ISC_:	non-specific ischemic	(STTC)	,
+IRBBB:	incomplete right bundle branch block	(CD),
+1AVB:	first degree AV block	(CD),
+IVCD:	non-specific intraventricular conduction disturbance (block)	(CD)	
+ISCAL:	ischemic in anterolateral leads		(STTC	ISCA),		
+CRBBB:	complete right bundle branch block	(CD	CRBBB),
+CLBBB:	complete left bundle branch block	(CD	CLBBB),
+ILMI:	inferolateral myocardial infarction	(MI	IMI),		
+LAO/LAE:	left atrial overload/enlargement	(HYP	LAO/LAE	),
+AMI:	anterior myocardial infarction			(MI	AMI),
+ALMI:	anterolateral myocardial infarction			(MI	AMI),
+ISCIN:	ischemic in inferior leads		(STTC	ISCI)			
+INJAS:	subendocardial injury in anteroseptal leads		(MI	AMI),
+LMI:	lateral myocardial infarction		(MI	LMI),		
+ISCIL:	ischemic in inferolateral leads			(STTC	ISCI),			
+LPFB:	left posterior fascicular block			(CD	LAFB/LPFB),
+ISCAS:	ischemic in anteroseptal leads		(STTC	ISCA),			
+INJAL:	subendocardial injury in anterolateral leads		(MI	AMI)	
+ISCLA:	ischemic in lateral leads		(STTC	ISCA)		
+RVH:	right ventricular hypertrophy	(HYP	RVH)	
+ANEUR:	ST-T changes compatible with ventricular aneurysm	(STTC	STTC)	
+RAO/RAE	:right atrial overload/enlargement		(HYP	RAO/RAE)	
+EL:	electrolytic disturbance or drug (former EDIS)		(STTC	STTC)				
+WPW:	Wolf-Parkinson-White syndrome		(CD	WPW	)
+ILBBB:	incomplete left bundle branch block	(CD	ILBBB)
+IPLMI:	inferoposterolateral myocardial infarction		(MI	IMI)		
+ISCAN:	ischemic in anterior leads		(STTC	ISCA)				
+IPMI:	inferoposterior myocardial infarction		(MI	IMI)
+SEHYP:	septal hypertrophy		(HYP	SEHYP)		
+INJIN:	subendocardial injury in inferior leads		(MI	IMI)
+INJLA:	subendocardial injury in lateral leads		(MI	AMI)			
+PMI:	posterior myocardial infarction		(MI	PMI)
+3AVB:	third degree AV block		(CD	_AVB)
+INJIL:	subendocardial injury in inferolateral leads		(MI	IMI	)
+2AVB:	second degree AV block		(CD	_AVB)	
+ABQRS:	abnormal QRS				(Normal/abnormal)			
+PVC:	ventricular premature complex	
+STD_:	non-specific ST depression	
+VCLVH:	voltage criteria (QRS) for left ventricular hypertrophy		
+QWAVE:	Q waves present	
+LOWT:	low amplitude T-waves	
+NT_:	non-specific T-wave changes	
+PAC:	atrial premature complex	
+LPR:	prolonged PR interval	
+INVT:	inverted T-waves	
+LVOLT:	low QRS voltages in the frontal and horizontal leads				
+HVOLT:	high QRS voltage			
+TAB_:	T-wave abnormality			
+STE_:	non-specific ST elevation		
+PRC(S):	premature complex(es)							
+SR:	sinus rhythm	
+AFIB:	atrial fibrillation	
+STACH:	sinus tachycardia		
+SARRH:	sinus arrhythmia		
+SBRAD:	sinus bradycardia			
+PACE:	normal functioning artificial pacemaker		
+SVARR:	supraventricular arrhythmia		
+BIGU:	bigeminal pattern (unknown origin, SV or Ventricular)		
+AFLT:	atrial flutter			
+SVTAC:	supraventricular tachycardia		
+PSVT:	paroxysmal supraventricular tachycardia		
+TRIGU:	trigeminal pattern (unknown origin, SV or Ventricular)}
+'total':71  classes
+}
+
+18885 patients/21837 records
+12 lead

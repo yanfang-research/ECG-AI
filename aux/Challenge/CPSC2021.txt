@@ -1,0 +1,10 @@
+sig_len:24 hours
+frequncy:200hz
+
+label:
+1.是否患有房颤（2类）：
+  AF
+  not AF
+730 record（10 AF patients (5 PAF patients) and 39 non-AF patients）
+706 records（37 AF patients (18 PAF patients) and 14 non-AF patients）
+导联：12 lead/3 lead

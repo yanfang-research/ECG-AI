@@ -1,0 +1,14 @@
+sig_len: 24 hours
+frequncy:1,000 Hz
+sexes:9 women/6 men
+
+label:
+1.quality（3类）
+Class 1 indicates that all ECG significant waveforms (P wave, T wave and QRS complex) are clearly visible and their onsets and offsets can be detected reliably; 
+Class 2 indicates that the noise level is increased and ECG significant points cannot be reliably detected, but the signal enables reliable QRS detection; 
+Class 3 indicates that QRS complexes cannot be detected reliably and the signal is unsuitable for any further analysis.
+
+
+  
+15 patients/18 records
+3 lead

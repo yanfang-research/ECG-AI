@@ -1,0 +1,14 @@
+sig_len:4096
+frequncy:300 to 600 Hz. 
+
+label:
+1.疾病分类（6类）：
+  1dAVb; 
+  RBBB; 
+  LBBB; 
+  SB; 
+  AF; 
+  ST. 
+ 
+811 patients/853 records
+12 lead

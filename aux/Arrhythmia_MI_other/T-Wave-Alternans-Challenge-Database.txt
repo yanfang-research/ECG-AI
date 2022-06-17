@@ -1,0 +1,11 @@
+sig_len:59999
+frequncy:500/250 HZ 
+sexes:85 women/115 men
+
+label:
+1.心拍波形分类（2类）：
+  QRS
+  other
+ 
+100 patients/100 records
+2 lead

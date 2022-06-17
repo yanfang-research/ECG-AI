@@ -1,0 +1,23 @@
+sig_len:10s
+frequncy:500hz
+sexes:9 women/19 men 
+
+label:
+1.节律（13类）：
+  Sinus arrhythmia,  Normal ECG
+  Sinus arrhythmia, Right axis deviation, Normal ECG
+  Normal sinus rhythm, Left axis deviation, Borderline ECG
+  Sinus bradycardia, normal sinus rhythm, First degree AV block, Normal ECG
+  Normal sinus rhythm, Left ventricular hypertrophy, Normal ECG
+  Normal sinus rhythm, Incomplete right bundle branch block, Normal ECG
+  Normal sinus rhythm, Right axis deviation, First degree AV block, Normal ECG
+  Normal sinus rhythm, Possible left ventricular hypertrophy, Left atrial enlargement, Misplaced electrodes, Borderline ECG
+  Sinus bradycardia, Normal ECG
+  Normal sinus rhythm, first degree AV block, Normal ECG
+  Sinus bradycardia, Left ventricular hypertrophy, Normal ECG
+  Sinus bradycardia, Incomplete right bundle branch block, Normal ECG
+  Normal sinus rhythm, Left ventricular hypertrophy, Normal ECG
+
+
+28 patients/28 records
+12 lead

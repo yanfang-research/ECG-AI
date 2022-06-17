@@ -1,0 +1,17 @@
+sig_len:5 minutes
+frequncy:250hz
+sexes:10 women
+
+label:
+1.波形位置（6类）
+  P onset, 
+  QRS onset, 
+  QRS offset, 
+  T peak, 
+  secondary T peak (if present) 
+  T offset.
+
+
+
+10 patients/7000 records
+32 lead(32 abdominal and 2 maternal)

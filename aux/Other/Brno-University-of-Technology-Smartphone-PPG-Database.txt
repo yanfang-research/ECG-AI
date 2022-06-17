@@ -1,0 +1,13 @@
+sig_len:10s
+frequncy:1000hz
+sexes:6 women/6 men
+
+label:
+1.signal quality（2类）
+  1: indicates good quality for HR estimation
+  0: indicates poor quality; signals where the HR cannot be detected reliably and thus unsuitable for analysis
+
+
+
+12 patients/48 records
+1 lead

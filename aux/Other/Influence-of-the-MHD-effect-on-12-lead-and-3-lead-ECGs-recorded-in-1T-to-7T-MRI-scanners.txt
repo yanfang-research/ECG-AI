@@ -1,0 +1,26 @@
+sig_len:203min
+frequncy:1024hz
+
+label:
+1.parameters of the MR scanner（3类）
+  field strength, 
+  manufacturer, 
+  field orientation
+2.parameters of the ECG hardware（4类）
+  ECG recorder
+  ADC resolution
+  ADC input voltage range
+  ECG lead configuration
+3.Information about the subject（6类）
+  Sex
+  Age
+  Weight
+  Height
+  Positon in the scanner
+  Respiration
+
+
+
+
+23 patients/43 records
+12 lead

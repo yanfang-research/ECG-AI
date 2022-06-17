@@ -1,0 +1,20 @@
+sig_len:10s
+frequncy:500hz
+
+label:
+{
+Unclassified	Sinus rhythm: Sinus arrhythmia, QT interval (prolonged)
+QRS axis deviation:	Left axis deviation, Right axis deviation, Indeterminate axis
+High amplitude R wave:	LVH, RVH, Ventricular hypertrophy
+Arrhythmia:	Sinus rhythm (bradycardia), Atrial fibrillation, Sinus rhythm (tachycardia)
+AV conduction defect:	AV block, AV block (1st degree), PR interval (short)
+Ventricular conduction defect:	RBBB, RBBB (incomplete), rSr pattern in V1 and V2
+Q and QS pattern:	Myocardial infarction (inferior), Myocardial infarction (septal), Myocardial infarction (anterior)
+ST junction and segment depression:	Myocardial ischemia (lateral), ST-T abnormality (non-specific), Myocardial ischemia (anterior)
+T wave item:	T wave (abnormal), T wave (inverted), T wave (flattened)
+Miscellaneous	:ST segment elevation, P wave (abnormal), Voltage (decreased)
+'total':10  classes
+}
+
+13862 patients/20000 records
+12 lead

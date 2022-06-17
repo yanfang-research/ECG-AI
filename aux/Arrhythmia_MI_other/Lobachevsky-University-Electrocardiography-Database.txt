@@ -1,0 +1,97 @@
+sig_len:10s
+frequncy:500hz
+sexes:85 women/115 men
+
+label:
+1.心拍波形分类（3类）：
+  P waves
+  QRS waves
+  T waves
+2.Rhythms(6 类)：
+  Sinus rhythm
+  Sinus tachycardia	
+  Sinus bradycardia	
+  Sinus arrhythmia
+  Irregular sinus rhythm
+  Abnormal rhythm	
+3.Electric axis of the heart（6 类）：
+  Normal	
+  Left axis deviation	
+  Vertical	
+  Horizontal	
+  Right axis deviation
+  Undetermined 
+4.Conduction abnormalities（9 类）：
+  Sinoatrial blockade, undetermined	
+  I degree AV block	
+  III degree AV-block	
+  Incomplete right bundle branch block	
+  Incomplete left bundle branch block	
+  Left anterior hemiblock	
+  Complete right bundle branch block	
+  Complete left bundle branch block	
+  Non-specific intravintricular conduction delay
+5.Extrasystolies（17 类）：
+  Atrial extrasystole, undetermined	
+  Atrial extrasystole, low atrial	
+  Atrial extrasystole, left atrial	
+  Atrial extrasystole, SA-nodal extrasystole	
+  Atrial extrasystole, type: single PAC	
+  Atrial extrasystole, type: bigemini	
+  Atrial extrasystole, type: quadrigemini	
+  Atrial extrasystole, type: allorhythmic pattern	
+  Ventricular extrasystole, morphology: polymorphic	
+  Ventricular extrasystole, localisation: RVOT, anterior wall	
+  Ventricular extrasystole, localisation: RVOT, antero-septal part	
+  Ventricular extrasystole, localisation: IVS, middle part	
+  Ventricular extrasystole, localisation: LVOT, LVS	
+  Ventricular extrasystole, localisation: LV, undefined	
+  Ventricular extrasystole, type: single PVC	
+  Ventricular extrasystole, type: intercalary PVC	
+  Ventricular extrasystole, type: couplet
+6.Hypertrophies（7 类）：
+  Right atrial hypertrophy	
+  Left atrial hypertrophy	
+  Right atrial overload	
+  Left atrial overload	
+  Left ventricular hypertrophy	
+  Right ventricular hypertrophy	
+  Left ventricular overload
+7.Cardiac pacing（5 类）：
+  UNIpolar atrial pacing	
+  UNIpolar ventricular pacing	
+  BIpolar ventricular pacing	
+  Biventricular pacing	
+  P-synchrony
+8.Ischemia（22 类）：
+  STEMI: anterior wall	
+  STEMI: lateral wall	
+  STEMI: septal	
+  STEMI: inferior wall	
+  STEMI: apical	
+  Ischemia: anterior wall	
+  Ischemia: lateral wall	
+  Ischemia: septal	
+  Ischemia: inferior wall	
+  Ischemia: posterior wall	
+  Ischemia: apical	
+  Scar formation: lateral wall	
+  Scar formation: septal	
+  Scar formation: inferior wall	
+  Scar formation: posterior wall	
+  Scar formation: apical	
+  Undefined ischemia/scar/supp.NSTEMI: anterior wall	
+  Undefined ischemia/scar/supp.NSTEMI: lateral wall	
+  Undefined ischemia/scar/supp.NSTEMI: septal	
+  Undefined ischemia/scar/supp.NSTEMI: inferior wall	
+  Undefined ischemia/scar/supp.NSTEMI: posterior wall	
+  Undefined ischemia/scar/supp.NSTEMI: apical
+9.Non-specific repolarization abnormalities（6 类）：
+  Anterior wall	
+  Lateral wall	
+  Septal	
+  Inferior wall	
+  Posterior wall
+  Apical
+200 patients/200 records
+12 lead

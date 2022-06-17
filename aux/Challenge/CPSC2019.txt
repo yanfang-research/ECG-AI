@@ -1,0 +1,13 @@
+sig_len:10s
+frequncy:500hz
+
+label:
+1. 传导疾病（3类）：
+  left bundle branch block (LBBB), 
+  right bundlebranch block (RBBB), 
+  premature ventricular contractions (PVC)
+2. QRS位置：
+  位置坐标
+
+2,000  patients
+导联：12 lead

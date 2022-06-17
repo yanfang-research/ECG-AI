@@ -1,0 +1,10 @@
+sig_len:20 minutes
+frequncy:333hz
+sexes:26 women
+
+用于信号生成，标注不明
+
+
+
+26 patients/26 records
+1 lead

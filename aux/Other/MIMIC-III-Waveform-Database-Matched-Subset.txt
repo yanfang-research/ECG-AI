@@ -1,0 +1,18 @@
+sig_len:25s~45 hours
+frequncy:125hz
+
+label:
+1.ICU大类属性信息（9类）
+  Billing	Coded data recorded primarily for billing and administrative purposes. Includes Current Procedural Terminology (CPT) codes, Diagnosis-Related Group (DRG) codes, and International Classification of Diseases (ICD) codes.
+  Descriptive	Demographic detail, admission and discharge times, and dates of death.
+  ictionary	Look-up tables for cross referencing concept identifiers (for example, International Classification of Diseases (ICD) codes) with associated labels.
+  Interventions	Procedures such as dialysis, imaging studies, and placement of lines.
+  Laboratory	Blood chemistry, hematology, urine analysis, and microbiology test results.
+  Medications	Administration records of intravenous medications and medication orders.
+  Notes	Free text notes such as provider progress notes and hospital discharge summaries.
+  Physiologic	Nurse-verified vital signs, approximately hourly (e.g., heart rate, blood pressure, respiratory rate).
+  Reports	Free text reports of electrocardiogram and imaging studies.
+
+
+10,282 patients/22,317 records
+4 lead(II,AVF,ABP,PAP)

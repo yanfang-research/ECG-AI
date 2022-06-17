@@ -1,0 +1,9 @@
+sig_len:Unknown
+frequncy:Unknown
+
+label:
+1.是否患有败血症（2类）：
+  sepsis
+  not sepsis
+20,336  training/20,000 testing
+导联：不等
