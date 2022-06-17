@@ -1,0 +1,16 @@
+
+label:
+1.diagnose（10类）
+  Normal sinus rhythm
+  Atrial fibrillation
+  hyperkalemia
+  Atrial flutter
+  Ventricular tachycardia
+  Wolf Parkinson White syndrome
+  Ventricular paced rhythm
+  Left bundle branch block
+  ST elevation MI
+  Complete heart block
+
+10 images
+12 lead

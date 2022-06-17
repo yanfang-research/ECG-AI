@@ -1,0 +1,16 @@
+sig_len:10s
+frequncy:1000hz
+
+
+label:
+1.波形位置（34类）
+  P onset, 
+  QRS onset, 
+  QRS offset, 
+  T peak, s
+  econdary T peak (if present]) 
+  T offset.
+
+
+60  patients/5749 records
+12 lead

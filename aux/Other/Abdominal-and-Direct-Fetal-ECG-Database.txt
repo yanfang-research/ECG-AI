@@ -1,0 +1,16 @@
+
+frequncy:1000hz
+sexes:5 women
+
+1.波形位置（6类）
+  P onset, 
+  QRS onset, 
+  QRS offset, 
+  T peak, 
+  secondary T peak (if present) 
+  T offset.
+
+
+
+5 patients/5 records
+4 lead

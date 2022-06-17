@@ -1,0 +1,8 @@
+sig_len:5 min
+frequncy:100hz
+
+仅使用ecg进行rpeak检测计算心率
+
+
+57 patients/57 records
+1 lead

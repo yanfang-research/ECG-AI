@@ -1,0 +1,11 @@
+sig_len:7.5 s to 119.8 s 
+frequncy:2048hz
+sexes:39 women
+
+label:
+1.diagnose（34类）
+  hear rate
+  qrs
+
+39  patients/60 records
+27 channels

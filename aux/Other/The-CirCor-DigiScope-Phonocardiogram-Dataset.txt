@@ -1,0 +1,25 @@
+sig_len:4.8s to 80.4s
+frequncy:4000hz
+
+label:
+1.timing（3类）
+  early-, 
+  mid-, 
+  late- systolic/diastolic
+2.shape(4类)
+  crescendo, 
+  decrescendo, 
+  diamond, 
+  plateau
+3.pitch（3类）
+  high, 
+  medium, 
+  low
+4.quality（3类）
+  blowing, 
+  harsh, 
+  musical
+5.grade（Levine scale分级）
+ 
+1568 patients/5272 records
+4 lead

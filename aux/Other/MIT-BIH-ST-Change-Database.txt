@@ -1,0 +1,16 @@
+sig_len:282341~927658
+frequncy:360hz
+
+
+label:
+1.diagnose（5类）
+ "N": "Normal",
+ "S": "Atrial premature beat",
+ "V": "Premature ventricular contraction",
+ "F": "Fusion of ventricular and normal beat", 
+ "Q": "Paced beat"
+
+
+
+28 patients/28 records
+2 lead

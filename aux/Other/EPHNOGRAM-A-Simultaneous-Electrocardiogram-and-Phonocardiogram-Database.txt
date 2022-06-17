@@ -1,0 +1,16 @@
+sig_len:30s~30min
+frequncy:8000hz
+sexes:0 women/24 men
+
+label:
+1.信号质量（4类）
+  NA
+  Quantization noise level
+  Noise
+  Good
+
+
+
+
+24 patients/69 records
+2 lead(ECG,PCG)

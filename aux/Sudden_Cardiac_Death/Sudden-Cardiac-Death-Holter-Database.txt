@@ -1,0 +1,17 @@
+sig_len:30 min
+frequncy:250hz
+sexes:7 women/13 men /3 unknown
+
+label:
+1.节律（6类）：
+  Sinus
+  Sinus with intermittent demand ventricular pacing; CPR at time of cardiac arrest 
+  Atrial fibrillation
+  Paced
+  Intermittent ventricular pacing
+  Sinus with intermittent pacing
+
+
+
+23 patients/23 records
+2 lead

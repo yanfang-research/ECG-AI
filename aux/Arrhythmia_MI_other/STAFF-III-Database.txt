@@ -1,0 +1,12 @@
+sig_len:300000
+frequncy:1000 HZ 
+
+label:
+1.心梗位置（4类）：
+  (LAD) artery, 
+  right coronary artery (RCA), 
+  left circumflex artery (LCX), 
+  the left main (LM) 
+ 
+104  patients/520 records
+9 lead (v1~v6 I,II,III)

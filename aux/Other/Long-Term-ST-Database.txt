@@ -1,0 +1,14 @@
+sig_len:21 ~ 24 hours
+frequncy:250hz
+
+
+label:
+1.diagnose（4类）
+ ischemic ST episodes, 
+ axis-related non-ischemic ST episodes, 
+ episodes of slow ST level drift, 
+ episodes containing mixtures of these phenomena
+
+
+80 patients/86 records
+2 lead(ML2,MV2)

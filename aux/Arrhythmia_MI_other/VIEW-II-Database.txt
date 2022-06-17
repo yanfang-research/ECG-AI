@@ -1,0 +1,15 @@
+sig_len:unknown
+frequncy:unknown 
+
+label:
+1.心拍波形分类（7类）：
+  The RR interval, 
+  QT/QTc interval, 
+  PR interval, 
+  QRS duration, 
+  P wave axis, 
+  QRS axis, 
+  T wave axis values
+ 
+461,178 patients/979,273 records
+12 lead

@@ -1,0 +1,55 @@
+sig_len:1800000
+frequncy:250hz
+sexes:8 women/70 men
+
+label:
+1.diagnose（34类）
+  Resting angina
+  Normal coronary arteries
+  Mixed angina
+  1-vessel disease (RCA)
+  Normal coronary artery vessels
+  Effort angina
+  Myocardial infarction
+  Arterial hypertension
+  3-vessel disease
+  1-vessel disease (LAD)
+  Coronary artery disease
+  2-vessel disease (LAD, RCA)
+  2-vessel disease (RCA, LAD)
+  1-vessel disease (LCX)
+  2-vessel disease (LCX, RCA)
+  2-vessel disease (LAD, LCX)
+  Anterior myocardial infarction
+  Aortic valvular regurgitation
+  Angina pectoris
+  Coronary artery by-pass graft
+  Inferior myocardial infarction
+  LCA main stem
+  Normal coronary vessels
+  Infero-lateral myocardial infarction
+  Previous coronary artery by-pass graft
+  2-vessel disease
+  Non-Q myocardial infarction
+  No coronary artery disease
+  Hyperkalemia
+  Chronic renal failure"
+  Unknown coronary artery disease
+  Hypotensive cardiomyopathy
+  Chest pain
+  No coronary angiography
+  3-vessel disease and LCA main stem
+2.Medications(8 类): 
+  "nitrates" 
+  "nifedipine"
+  "diltiazem"
+  "verapamil"
+  "beta-blockers"
+  "molsidomine"
+  "digitalis"
+  "nidefipine"
+
+
+
+79 patients/90 records
+2 lead(V4,MLIII)

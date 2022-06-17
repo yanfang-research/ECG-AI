@@ -1,0 +1,13 @@
+sig_len:20s
+frequncy:128hz
+sexes:72 males / 67 female
+
+label:
+1.R peak检测（2类）
+  R peak
+  None
+
+
+
+147  patients/147 records
+1 lead

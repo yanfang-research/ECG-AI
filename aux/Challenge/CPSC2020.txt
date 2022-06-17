@@ -1,0 +1,9 @@
+sig_len:24 hours
+frequncy:400hz
+
+label:
+1.是否患有房颤（2类）：
+  AF
+  not AF
+10  patients
+导联：1 lead

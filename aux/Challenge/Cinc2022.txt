@@ -1,0 +1,13 @@
+sig_len:Unknown
+frequncy： 4000hz
+
+label:
+1.杂音位置（5类）：
+  PV ： pulmonary valve point;
+  TV ： tricuspid valve point;
+  AV ： aortic valve point;
+  MV ： the mitral valve point;
+  Phc ： any other auscultation Location.
+   
+942 patients/3163 records
+导联：4 lead

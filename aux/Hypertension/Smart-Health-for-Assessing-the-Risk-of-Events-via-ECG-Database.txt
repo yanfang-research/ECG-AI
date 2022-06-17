@@ -1,0 +1,10 @@
+sig_len:24 hours
+frequncy:128hz
+sexes:49 women/90 men
+
+label:
+1.心拍波形分类（2类）：
+  QRS
+  other
+139 patients/139 records
+3 lead(III,v3,v5)
