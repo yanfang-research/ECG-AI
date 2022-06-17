@@ -68,3 +68,15 @@
     
 	- [Paper'2021: Towards deep phenotyping pregnancy: a systematic review on artificial intelligence and machine learning methods to improve pregnancy outcomes](https://academic.oup.com/bib/article/22/5/bbaa369/6065792?login=false)
 ![]()
+    
+	- [Paper'2021: Deep Learning Methods for Heart Sounds Classification: A Systematic Review](https://www.mdpi.com/1099-4300/23/6/667)
+![]()
+    - [Paper'2018: Localization and classification of heart beats in phonocardiography signals a comprehensive review](https://link.springer.com/article/10.1186/s13634-018-0545-9)
+![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_PCG_paper_1.png)
+    
+	- [Paper'2020: Bio-signal Analysis for StressDetection Using Machine Learning Methods: A Review](https://ieeexplore.ieee.org/abstract/document/9277314)
+![]()
+    - [Paper'2018: A Review of Obstructive Sleep Apnea Detection Approaches](https://ieeexplore.ieee.org/document/8331075)
+![]()
+    - [Paper'2020: Deep Learning in Physiological Signal Data: A Survey(including:brain disease,function/sleep stage/motion ect.)](https://www.mdpi.com/1424-8220/20/4/969/htm)
+![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_sleep_paper_1.png)
