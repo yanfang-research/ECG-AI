@@ -41,7 +41,7 @@
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_paper_4.jpg)
    -  [Paper'2021: Application of artificial intelligencetechniques for automated detection of myocardial infarction: A review](https://arxiv.org/pdf/2107.06179.pdf)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_MI_paper_1.jpg)
-    - [Paper'2021: Deep learning analysis of resting electrocardiograms for the detection of myocardial dysfunction,hypertrophy, and ischaemia: a systematic review] (https://academic.oup.com/ehjdh/article/2/3/416/6345343?login=true)
+    - [Paper'2021: Deep learning analysis of resting electrocardiograms for the detection of myocardial dysfunction,hypertrophy, and ischaemia: a systematic review](https://academic.oup.com/ehjdh/article/2/3/416/6345343?login=true)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_MI_paper_2.jpg)
 
 
