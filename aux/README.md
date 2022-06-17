@@ -7,8 +7,8 @@
 ##  数据集描述和小结
 📘 小结 (推荐版)：
 - 疾病种类最多
-	- [x] [*PTB-XL 12导联10s 5大类71小类 ECG数据集](https://www.physionet.org/content/ptb-xl/1.0.1/)
-	- [x] [*BUT PDB 2分钟2导联 ECG数据集](https://www.physionet.org/content/but-pdb/1.0.0/)
+	- [x] [*PTB-XL 12导联10s 5大类71小类 ECG数据集](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia_MI_other/ptbxl.txt)
+	- [x] [*BUT PDB 2分钟2导联 ECG数据集](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/BUT-PTB.txt)
 	- [x] [*(受限) 同济医院20+种心律失常 12导联10s数据集](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30107-2/fulltext)
 	- [x] [*(暂无法访问) KURIAS-ECG 12导联10s 高质量ECG数据](https://www.physionet.org/content/kurias-ecg/1.0/)
 - 样本量最多
