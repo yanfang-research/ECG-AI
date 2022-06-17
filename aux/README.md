@@ -39,26 +39,32 @@
 - 心肌梗死+心律失常+其它
 	- Paper'2022: AI for Detecting and Locating Myocardial Infarction by Electrocardiogram
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_paper_4.jpg)
+
    -  [Paper'2021: Application of artificial intelligencetechniques for automated detection of myocardial infarction: A review](https://arxiv.org/pdf/2107.06179.pdf)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_MI_paper_1.jpg)
+
     - [Paper'2021: Deep learning analysis of resting electrocardiograms for the detection of myocardial dysfunction,hypertrophy, and ischaemia: a systematic review](https://academic.oup.com/ehjdh/article/2/3/416/6345343?login=true)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_MI_paper_2.jpg)
 
 
 - 高血压
-	- Paper'2021: A review of machine learning in hypertension detection and blood pressure estimation based on clinical and physiological data(https://www.sciencedirect.com/science/article/pii/S1746809421004109)
+	- [Paper'2021: A review of machine learning in hypertension detection and blood pressure estimation based on clinical and physiological data](https://www.sciencedirect.com/science/article/pii/S1746809421004109)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_hypertension_paper_1.jpg)
 
 - 心力衰竭
-	- Paper'2019: Computer-aided diagnosis of congestive heart failure using ECG signals -A review(https://www.sciencedirect.com/science/article/abs/pii/S1120179719301115)
+	- [Paper'2019: Computer-aided diagnosis of congestive heart failure using ECG signals -A review](https://www.sciencedirect.com/science/article/abs/pii/S1120179719301115)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_heat_failure_paper_1.png)
+
 - 心源性猝死 SCD
-	- Paper'2020: Identification of Classification Method for Sudden Cardiac Death: A Review(https://ieeexplore.ieee.org/abstract/document/8984465)
+	- [Paper'2020: Identification of Classification Method for Sudden Cardiac Death: A Review](https://ieeexplore.ieee.org/abstract/document/8984465)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_SCD_paper_1.png)
-	- Paper'2021: Automated detection of shockable ECG signals: A review(https://www.sciencedirect.com/science/article/abs/pii/S0020025521004953)
+
+	- [Paper'2021: Automated detection of shockable ECG signals: A review](https://www.sciencedirect.com/science/article/abs/pii/S0020025521004953)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_SCD_paper_2.png)   
+
 - 其他
-	- Paper'2018: Non-Adaptive Methods for Fetal ECG Signal Processing: A Review and Appraisal(https://www.mdpi.com/1424-8220/18/11/3648)
+	- [Paper'2018: Non-Adaptive Methods for Fetal ECG Signal Processing: A Review and Appraisal](https://www.mdpi.com/1424-8220/18/11/3648)
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_fecg_paper_1.png)
-    - Paper'2021: Towards deep phenotyping pregnancy: a systematic review on artificial intelligence and machine learning methods to improve pregnancy outcomes (https://academic.oup.com/bib/article/22/5/bbaa369/6065792?login=false)
+    
+	- [Paper'2021: Towards deep phenotyping pregnancy: a systematic review on artificial intelligence and machine learning methods to improve pregnancy outcomes](https://academic.oup.com/bib/article/22/5/bbaa369/6065792?login=false)
 ![]
