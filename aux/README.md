@@ -34,7 +34,7 @@
 ![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_paper_2.jpg)
 
 	- [Paper'2021: Artificial intelligence-enhanced electrocardiography in cardiovascular disease management](https://www.nature.com/articles/s41569-020-00503-2.pdf)
-![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_paper_3.jpg)
+![](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/PNG/Databases_summary_paper_3.png)
 
 - 心肌梗死+心律失常+其它
 	- Paper'2022: AI for Detecting and Locating Myocardial Infarction by Electrocardiogram
