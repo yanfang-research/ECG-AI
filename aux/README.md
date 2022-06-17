@@ -8,13 +8,13 @@
 📘 小结 (推荐版)：
 - 疾病种类最多
 	- [x] [*PTB-XL 12导联10s 5大类71小类 ECG数据集](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia_MI_other/ptbxl.txt)
-	- [x] [*BUT PDB 2分钟2导联 22类 ECG数据集](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/BUT-PTB.txt)
-	- [x] [*(受限) 同济医院12导联10s 20+种心律失常 ECG数据集](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30107-2/fulltext)
-	- [x] [*(暂无法访问) KURIAS-ECG 12导联10s 10类 高质量ECG数据](https://www.physionet.org/content/kurias-ecg/1.0/)
+	- [x] [BUT PDB 2分钟2导联 22类 ECG数据集](https://github.com/yanfang-research/ECG-AI/blob/main/aux/Arrhythmia/BUT-PTB.txt)
+	- [x] [(受限) 同济医院12导联10s 20+种心律失常 ECG数据集](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30107-2/fulltext)
+	- [x] [(暂无法访问) KURIAS-ECG 12导联10s 10类 高质量ECG数据](https://www.physionet.org/content/kurias-ecg/1.0/)
 - 样本量最多
 	- [x] [*(私有已授权) S12L-ECG 6类ECG异常 来自811个国家160万人200万ECG](https://www.nature.com/articles/s41467-020-15432-4)
 - 导联数最多 (暂未找到公开18导联)
-	- [x] [*PTB Diagnostic 15导联ECG数据集](https://www.physionet.org/content/ptbdb/1.0.0/)
+	- [x] [PTB Diagnostic 15导联ECG数据集](https://www.physionet.org/content/ptbdb/1.0.0/)
 
 🔥 详细的数据集描述 (整理版)：
 - [心律失常](https://github.com/yanfang-research/ECG-AI/tree/main/aux/Arrhythmia)
