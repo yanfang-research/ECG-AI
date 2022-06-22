@@ -9,6 +9,7 @@
 📘 心肌梗死：
 
 - [x] [急性心肌梗死心电图](https://www.aclsmedicaltraining.com/ecg-in-acute-myocardial-infarction/)
+- [x] [冠状动脉树和血管分段](http://med.china.com.cn/content/pid/224261/tid/1026)
 <details open>
  <summary>Syntax评分</summary>
    SYNTAX评分主要用于针对冠状动脉左主干病变和/或三支病变，此评分是根据冠状动脉病变解剖特点进行危险分层的积分系统，根据病变位置、严重程度、分叉、钙化等解剖特点定量评价冠脉病变的复杂程度，根据积分的高低为手术方式选择提供初步判断。      
