@@ -24,7 +24,7 @@
 💻 心血管疾病：
 - [x] [冠状动脉粥样硬化]
 
-- [iHateRegex] (https://ihateregex.io/playground)
+- [iHateRegex](https://ihateregex.io/playground)
 
 ## 引用
 
