@@ -73,6 +73,69 @@
 - [x] [Designing Theory-Driven User-Centric Explainable AI](https://dl.acm.org/doi/abs/10.1145/3290605.3300831?casa_token=7u-x6LWY3tIAAAAA%3AEDDvDzT-lQJKCy-9wFTGg3f4Fmf5CYh-j62zaQv02leO1ga0NjxXHFQsXZjqREwFOlSpSzSV57NLSw)
 - [x] [Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG (Nature'2020)](https://www.nature.com/articles/s41598-019-56927-5)
 
+📘 Nature，TMI，MIA，MICCAI 心电相关文章：
+
+- Nature
+	- [x] [Automatic diagnosis of the 12-lead ECG using a deep neural network（Nature Communication'2020）](https://www.nature.com/articles/s41467-020-15432-4)
+	- [x] [Deep neural network-estimated electrocardiographic age as a mortality predictor（Nature Communication'2021）](https://www.nature.com/articles/s41467-021-25351-7)
+	- [x] [Automated multilabel diagnosis on electrocardiographic images and signals（Nature Communication'2022）](https://www.nature.com/articles/s41467-022-29153-3)
+	- [x] [ECG data dependency for atrial fibrillation detection based on residual networks（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-97308-1)
+	- [x] [Author Correction: Automatic diagnosis of the 12-lead ECG using a deep neural network（Nature Communication'2020）](https://www.nature.com/articles/s41467-020-16172-1)
+	- [x] [Combined deep CNN–LSTM network-based multitasking learning architecture for noninvasive continuous blood pressure estimation using difference in ECG-PPG features（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-92997-0)
+	- [x] [Performance of a convolutional neural network derived from an ECG database in recognizing myocardial infarction（Scientific Report'2020）](https://www.nature.com/articles/s41598-020-65105-x)
+	- [x] [Classification of ECG signals using multi-cumulants based evolutionary hybrid classifier（Scientific Report'2020）](https://pubmed.ncbi.nlm.nih.gov/29060206/)
+	- [x] [Machine learning-based prediction of acute coronary syndrome using only the pre-hospital 12-lead electrocardiogram（Nature Communication'2020）](https://www.nature.com/articles/s41467-020-17804-2)
+	- [x] [ECG-based machine-learning algorithms for heartbeat classification（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-97118-5)
+	- [x] [transfer learning for ECG classification（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-84374-8)
+	- [x] [A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions（Nature Communication'2021）](https://www.nature.com/articles/s41467-021-24483-0)
+	- [x] [Artificial intelligence-enhanced electrocardiography in cardiovascular disease management（Nature Review Cardiology'2021）](https://www.nature.com/articles/s41569-020-00503-2)
+	- [x] [Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG（Scientific Report'2020）](https://www.nature.com/articles/s41598-019-56927-5)
+	- [x] [Contactless facial video recording with deep learning models for the detection of atrial fibrillation（Scientific Report'2022）](https://www.nature.com/articles/s41598-021-03453-y)
+	- [x] [DeepFake electrocardiograms using generative adversarial networks are the beginning of the end for privacy issues in medicine（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-01295-2)
+	- [x] [Artificial intelligence algorithm for detecting myocardial infarction using six-lead electrocardiography（Scientific Report'2020）](https://www.nature.com/articles/s41598-020-77599-6)
+	- [x] [Transfer Learning in ECG Classification from Human to Horse Using a Novel Parallel Neural Network Architecture（Scientific Report'2020）](https://www.nature.com/articles/s41598-020-77599-6)
+	- [x] [Inter-Patient ECG Heartbeat Classification with Temporal VCG Optimized by PSO（Scientific Report'2017）](https://www.nature.com/articles/s41598-017-09837-3)
+	- [x] [Fusion of fully integrated analog machine learning classifier with electronic medical records for real-time prediction of sepsis onset（Scientific Report'2022）](https://www.nature.com/articles/s41598-022-09712-w)
+	- [x] [Prediction of mortality from 12-lead electrocardiogram voltage data using a deep neural network（Nature Medicine'2020）](https://www.nature.com/articles/s41591-020-0870-z)
+	- [x] [Accessory pathway analysis using a multimodal deep learning model（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-87631-y)
+	- [x] [Accurate and efficient time-domain classification with adaptive spiking recurrent neural networks（Machine Intelligence'2021）](https://www.nature.com/articles/s41598-021-87631-y)
+	- [x] [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network（Nature Medicine'2019）](https://www.nature.com/articles/s41591-018-0268-3)
+	- [x] [Convolutional neural network for classification of eight types of arrhythmia using 2D time–frequency feature map from standard 12-lead electrocardiogram（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-99975-6)
+	- [x] [Detection of maternal and fetal stress from the electrocardiogram with self-supervised representation learning（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-99975-6)
+	- [x] [Screening for cardiac contractile dysfunction using an artificial intelligence–enabled electrocardiogram（Nature Medicine'2019）](https://www.nature.com/articles/s41591-018-0240-2)
+	- [x] [Automatic classification of healthy and disease conditions from images or digital standard 12-lead electrocardiograms（Scientific Report'2020）](https://www.nature.com/articles/s41598-020-73060-w)
+	- [x] [Explaining deep neural networks for knowledge discovery in electrocardiogram analysis（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-90285-5)
+	- [x] [A deep transfer learning approach for wearable sleep stage classification with photoplethysmography（Digital Medicine'2021）](https://www.nature.com/articles/s41746-021-00510-8)
+	- [x] [Feasibility of the deep learning method for estimating the ventilatory threshold with electrocardiography data（Digital Medicine'2020）](https://www.nature.com/articles/s41746-020-00348-6)
+	- [x] [Deep learning models for electrocardiograms are susceptible to adversarial attack（Nature Medicine'2020）](https://www.nature.com/articles/s41591-020-0791-x)
+	- [x] [Concatenated convolutional neural network model for cuffless blood pressure estimation using fuzzy recurrence properties of photoplethysmogram signals（Scientific Report'2022）](https://www.nature.com/articles/s41598-022-10244-6)
+	- [x] [Analyzing artificial intelligence systems for the prediction of atrial fibrillation from sinus-rhythm ECGs including demographics and feature visualization（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-02179-1)
+	- [x] [Integration of novel monitoring devices with machine learning technology for scalable cardiovascular management（Nature Review Cardiology'2020）](https://www.nature.com/articles/s41569-020-00445-9)
+	- [x] [A new deep learning algorithm of 12-lead electrocardiogram for identifying atrial fibrillation during sinus rhythm（Scientific Report'2021）](https://www.nature.com/articles/s41598-021-92172-5)
+	- [x] [Personalized Monitoring and Advance Warning System for Cardiac Arrhythmias（Scientific Report'2017）](https://www.nature.com/articles/s41598-017-09544-z)
+	- [x] [Deep Feature Learning for Sudden Cardiac Arrest Detection in Automated External Defibrillators（Scientific Report'2018）](https://www.nature.com/articles/s41598-018-33424-9)
+	- [x] [Artificial intelligence to improve the diagnosis of cardiovascular diseases（Nature Reviews Cardiology'2019）](https://www.nature.com/articles/s41569-019-0158-5)
+
+- TMI
+	- [x] [Learning Domain Shift in Simulated and Clinical Data: Localizing the Origin of Ventricular Activation From 12-Lead Electrocardiograms（2019）](https://ieeexplore.ieee.org/document/8529231)
+	- [x] [Noninvasive Reconstruction of Transmural Transmembrane Potential With Simultaneous Estimation of Prior Model Erro（2019）](https://ieeexplore.ieee.org/document/8672215)
+	- [x] [Mapping Biological Current Densities With Ultrafast Acoustoelectric Imaging: Application to the Beating Rat Heart（2019）](https://ieeexplore.ieee.org/document/8637012)
+
+- MIA
+	- [x] [A Framework for the generation of digital twins of cardiac electrophysiology from clinical 12-leads ECGs（2021）](https://www.sciencedirect.com/science/article/pii/S1361841521001262)
+	- [x] [A rule-based method for predicting the electrical activation of the heart with cardiac resynchronization therapy from non-invasive clinical data（2019）](https://www.sciencedirect.com/science/article/pii/S1361841518301841)
+	- [x] [Phase-aware echocardiogram stabilization using keyframes（2016）](https://www.sciencedirect.com/science/article/pii/S1361841516301165)
+	- [x] [Analysis of nonstandardized stress echocardiography sequences using multiview dimensionality reduction（2019）](https://www.sciencedirect.com/science/article/pii/S1361841519301343)
+	- [x] [A bi-atrial statistical shape model for large-scale in silico studies of human atria: Model development and application to ECG simulations（2021）](https://www.sciencedirect.com/science/article/pii/S1361841521002553)
+
+- MICCAI
+	- [x] [Deep Neural Dynamic Bayesian Networks Applied to EEG Sleep Spindles Modeling（2021）](https://miccai2021.org/openaccess/paperlinks/2021/09/01/132-Paper1906.html)
+
+
+
+
+
+
 
 
 
