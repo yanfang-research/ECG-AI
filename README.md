@@ -1,10 +1,17 @@
 ##  简介
 
  🚀 记录用于ECG-AI的算法、数据集和工具等。*含义为重要。
+ 📢 动态更新中...
+ 
+
+[💻 基准测试和模型库](https://github.com/yanfang-research/ECG-AI) |
+[📰 数据集](https://github.com/yanfang-research/ECG-AI) |
+[🤔 数据集描述](https://github.com/yanfang-research/ECG-AI/tree/main/aux) |
+[🛠️ 工具和软件](https://github.com/yanfang-research/ECG-AI) |
+[👀 论文](https://github.com/yanfang-research/ECG-AI/blob/main/paper_related.md) 
+
 
 ## 基准测试和模型库
-
-📢 动态更新中...
 
 📘 骨干网络：
 
@@ -191,7 +198,6 @@
 - [处理：EVAL_ST 评估和比较ST段检测算法的性能](https://www.physionet.org/content/eval-st/1.0.0/)
 - [匿名：edf-anonymize 匿名化EDF或EDF+文件](https://www.physionet.org/content/edf-anonymize/1.0.0/)
 - [匿名：匿名化工具包](https://www.physionet.org/content/deid/1.1/)
-
 
 ## 引用
 
