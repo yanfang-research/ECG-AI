@@ -199,6 +199,8 @@
 - [处理：EVAL_ST 评估和比较ST段检测算法的性能](https://www.physionet.org/content/eval-st/1.0.0/)
 - [匿名：edf-anonymize 匿名化EDF或EDF+文件](https://www.physionet.org/content/edf-anonymize/1.0.0/)
 - [匿名：匿名化工具包](https://www.physionet.org/content/deid/1.1/)
+- [处理：ECG图像自动诊断LV收缩功能障碍 (medRxiv'2022)](https://www.cards-lab.org/ecgvision-lv)
+- [处理：ECG图像自动诊断6种心律失常 (Nature Communication'2022)](https://www.cards-lab.org/ecgdx)
 
 ## 引用
 
