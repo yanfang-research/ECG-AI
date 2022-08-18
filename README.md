@@ -202,6 +202,9 @@
 - [处理：ECG图像自动诊断LV收缩功能障碍 (medRxiv'2022)](https://www.cards-lab.org/ecgvision-lv)
 - [处理：ECG图像自动诊断6种心律失常 (Nature Communication'2022)](https://www.cards-lab.org/ecgdx)
 
+👀 其它:
+- [便携式、头戴式等设备比较](https://www.ndsu.edu/pubweb/~grier/Comparison-handheld-ECG-EKG.html)
+
 ## 引用
 
 💗 感谢以下论文和网址。
