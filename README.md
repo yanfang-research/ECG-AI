@@ -179,6 +179,7 @@
 - [转换：ECG数字化](https://github.com/ritikajha/ECG-Digitization)
 - [转换：Python工具用于Plot Dicom ECG](https://github.com/marcodebe/dicom-ecg-plot)
 - [转换：从WFDB MIT记录生成带注释的PDF工具](https://github.com/angelpinheiro/mit2pdf)
+- [转换：记录生成带注释的PDF工具](https://github.com/RigacciOrg/ecg-contec/tree/main/)
 - [可视化：PhysioBank ATM Web端访问](https://archive.physionet.org/cgi-bin/atm/ATM)
 - [可视化：Biopeaks](https://github.com/JanCBrammer/biopeaks)
 - [*可视化：3D ECG信号 Web端访问](https://github.com/mikael-kalstad/3CG)
