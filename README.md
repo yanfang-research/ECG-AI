@@ -170,6 +170,8 @@
 - [ECG Annotation C++ Library](https://www.codeproject.com/Articles/20995/ECG-Annotation-C-Library)
 - [LSTM based ECG Annotator](https://github.com/ankur219/Deep-Learning-Based-ECG-Annotator)
 - [ECG-DL-Segmentation](https://github.com/jergusadamec/ecg-deep-segmentation)
+- [ECG诊断术语注释工具(私有)](https://ecg.ru/)
+
 
 🏃 其它软件：
 - [*转换：数字化心电图图像](https://github.com/Tereshchenkolab/paper-ecg)
@@ -180,6 +182,7 @@
 - [转换：Python工具用于Plot Dicom ECG](https://github.com/marcodebe/dicom-ecg-plot)
 - [转换：从WFDB MIT记录生成带注释的PDF工具](https://github.com/angelpinheiro/mit2pdf)
 - [转换：记录生成带注释的PDF工具](https://github.com/RigacciOrg/ecg-contec/tree/main/)
+- [转换：用于PTB-XL注释转换为ecg.ru格式](https://github.com/mcsltd/annotateptbxl)
 - [可视化：PhysioBank ATM Web端访问](https://archive.physionet.org/cgi-bin/atm/ATM)
 - [可视化：Biopeaks](https://github.com/JanCBrammer/biopeaks)
 - [*可视化：3D ECG信号 Web端访问](https://github.com/mikael-kalstad/3CG)
